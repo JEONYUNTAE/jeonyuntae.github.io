@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Corona_cli
+title: Corona-cli
 permalink: index.html
 ---
 
