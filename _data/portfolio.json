@@ -1,12 +1,12 @@
 {
     "items": [{
-        "name": "Project One",
+        "name": "Jeon Yun Tae",
         "link": "",
         "image": "http://via.placeholder.com/480x320",
-        "date_added": "2017-06-09",
-        "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
+        "date_added": "2020-11-21",
+        "description": "SKKU software student<br>",
         "technologies": [
-            "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
+             "Python", "JavaScript"
         ]
     }]
 }
