@@ -1,20 +1,9 @@
-#  Jekyll Theme - BlogFolio
+오픈소스 SW 실습 2조
 
-A simple and easy to use blog and portfolio theme for Jekyll
-
-##  Install
-1. Clone or download `https://github.com/lamccloskey/jekyll-theme-blogfolio.git`
-2. Enter folder `cd jekyll-theme-blogfolio/`
-3. Start Jekyll Server `jekyll serve`
-4. Enter url  `localhost:4000/jekyll-theme-blogfolio/`
-
-##  Demo
-[https://lamccloskey.github.io/jekyll-theme-blogfolio/](https://lamccloskey.github.io/jekyll-theme-blogfolio/)
+##전윤태##
 
 
-##  Preview
-![alt text](blogfolio.gif "Blogfolio")
+정적 페이지 : http://jeonyuntae.github.io/
 
 
----
-_Powered by [Jekyll](http://jekyllrb.com/) and styled using [Bulma](http://bulma.io/)_
+forkerd from : https://github.com/lamccloskey/jekyll-theme-blogfolio
