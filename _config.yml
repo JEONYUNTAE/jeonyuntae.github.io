@@ -1,14 +1,14 @@
 # Site settings
 name: name
 email: email
-url: url
+
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
+url: "https://jeonyuntae.github.io"
 
-# social
 github:
   username: username
 
