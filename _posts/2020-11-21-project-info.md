@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " 소개"
+title: "Corona-cli 소개"
 date: 2020-11-21 00:00:00 -0500
 ---
 
