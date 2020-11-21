@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "author"
 title: "2조 전윤태"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl:
 url: "https://jeonyuntae.github.io"
 
 github:
